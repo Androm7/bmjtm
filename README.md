@@ -1,7 +1,7 @@
 # bmjtm
 bluemoon´s java templates - main repo
 provides templates for the software bluemoon to create runnable jars
-If you want to provide your own ones, simply create an github repo, add the same folderstructure:
+\nIf you want to provide your own ones, simply create an github repo, add the same folderstructure:
 ./templates
   <random name>.blmo
   etc.
