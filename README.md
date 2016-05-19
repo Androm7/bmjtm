@@ -5,7 +5,7 @@ If you want to provide your own ones, simply create an github repo, add the same
 ./templates         
   <random name>.blmo   
   etc.      
-.blmo files structure:
+.blmo files structure:                  
 name of command                      
 variable type1:variable name1%variable type2:Variable name2=predifined value                
 import1%import2         
